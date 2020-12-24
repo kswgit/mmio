@@ -1,5 +1,4 @@
 *.o
-*.c
 *.elf
 *.hex
 *.bin
